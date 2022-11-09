@@ -188,7 +188,7 @@ nav p{
 .about-header{
 	height: 50vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/featuredphoto1.png);
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/featuredphoto1.png);
 	background-position: cover;
 	background-size: cover;
 	text-align: center;
@@ -272,7 +272,7 @@ nav p{
 .contact-header{
 	height: 50vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/featuredphoto1.png);
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/featuredphoto1.png);
 	background-position: cover;
 	background-size: cover;
 	text-align: center;
@@ -397,7 +397,7 @@ nav p{
 .food-header{
 	height: 50vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/bulaloheader.jpg);
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/bulaloheader.jpg);
 	background-position: cover;
 	background-size: cover;
 	text-align: center;	
@@ -409,7 +409,7 @@ nav p{
 .places-header{
 	height: 50vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/placesheader.jpg);
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/placesheader.jpg);
 	background-position: cover;
 	background-size: cover;
 	text-align: center;
@@ -421,7 +421,7 @@ nav p{
 .festival-header{
 	height: 50vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/festivalheader.jpg);
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/festivalheader.jpg);
 	background-position: cover;
 	background-size: cover;
 	text-align: center;
