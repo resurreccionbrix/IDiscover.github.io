@@ -152,14 +152,19 @@ nav p{
 .img-gal{
 	flex-basis: 48%;
 	padding: 10px;
+	transition: 0.5s;
 }
 .img-gal img{
 	flex-basis: 20%;
 	padding: 10px 1px;
 	width: 100%;
-
-/*--- Contact Us ---*/
 }
+.img-gal:hover{
+	transform: scale(1.05);
+	z-index: 2;
+}
+/*--- Contact Us ---*/
+
 .footer{
 	width:  95.5%;
 	text-align: center;
