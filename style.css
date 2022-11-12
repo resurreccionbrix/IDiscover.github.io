@@ -118,7 +118,7 @@ nav p{
 }
 .layer{
 	background: transparent;
-	height: 86%;
+	height: 86.5%;
 	width: 100%;
 	position: absolute;
 	top: 0;
@@ -127,7 +127,7 @@ nav p{
 	border-radius: 10px;
 }
 .layer:hover{
-	background: rgba(255, 117, 124, 0.7);
+	background: rgba(255, 117, 124, 0.3);
 }
 
 /*---- gallery ----*/
